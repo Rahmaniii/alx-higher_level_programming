@@ -10,12 +10,10 @@
  */
 int check_cycle(listint_t *list)
 {
-	listint_t *k;
 	int n;
 
-	n = 0;
-	k = list
-	if (k == n)
+	n = *list;
+	if(n = 0)
 		return (0);
 	else
 		return(1);;
